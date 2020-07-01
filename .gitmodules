@@ -1,0 +1,9 @@
+[submodule "sol_champ"]
+	path = sol_champ
+	url = https://github.com/sol-ai-master/sol_champ.git
+[submodule "solai_game_simulator"]
+	path = solai_game_simulator
+	url = https://github.com/sol-ai-master/solai_game_simulator.git
+[submodule "solai_evolutionary_algorithm"]
+	path = solai_evolutionary_algorithm
+	url = https://github.com/sol-ai-master/solai_evolutionary_algorithm.git
