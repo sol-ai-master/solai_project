@@ -56,5 +56,5 @@ During the research, the algorithm pushed characters to a database. The database
 
 Contact the developers if you want to get in touch or get a further introduction to the system:
 - Eirik H. Skjærseth: eirik1502@gmail.com
-- Harald Vinje: 
+- Harald Vinje: haraldvinje@gmail.com
             
